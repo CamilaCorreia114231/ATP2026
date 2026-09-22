@@ -5,6 +5,6 @@
 - Camila de Barros Correia
 - a114231
 -![foto](foto.png)
-<img src="images/foto.png" width="150">
+<img src="foto/foto.png" width="150">
 
 
