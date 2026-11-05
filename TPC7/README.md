@@ -7,3 +7,5 @@
 
   
 ![foto](foto.png)
+
+Criar uma aplicação com as resoluções dos exercícios propostos para o teste de aferição:[Ver código Python](./testeafericao.py)
